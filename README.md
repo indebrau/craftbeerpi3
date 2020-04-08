@@ -3,6 +3,10 @@
 This is the CraftBeerPi v3 fork of Indebrau.
 It contains minor fixes and tweaks to successfully run CraftBeerPi in our brewery.
 
+## Install
+Prerequisite: Install Python 2 AND pip first!
+Then run install.sh script.
+
 ## Donation
 
 CraftBeerPi is a free & open source project.
